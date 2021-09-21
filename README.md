@@ -22,7 +22,7 @@ Para executar a aplicação é necessário configurar um ambiente com todas bibl
 ```bash
  activate.bat
 ```
-5. Navegue pelo prompt até a basta raiz do projeto. 
+5. Navegue pelo prompt até a pasta raiz do projeto. 
 6. Instale as bibliotecas com base no arquivo "requirements.txt":
 
 ```bash
